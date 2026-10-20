@@ -31,15 +31,72 @@ I enjoy building projects that connect hardware and software, from FPGA-based pr
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 🛠️ My Skill Set
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+### ⚡ FPGA, Digital Design & VLSI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=light" />
 </p>
+
+**FPGA & Hardware Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLSI-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" />
+</p>
+
+### 🔌 Embedded Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,python&theme=light" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STM32CubeMX-0075C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
+
+### 🤖 Robotics & Computer Vision
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ros,opencv,python,linux&theme=light" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Gazebo-3C8DBC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" />
+</p>
+
+### 🧠 AI, Machine Learning & Scientific Computing
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+  <img src="https://img.shields.io/badge/AI-7B2CBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" />
+</p>
+
+### 🐧 Tools, Simulation & Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,blender&theme=light" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-3C8DBC?style=for-the-badge" />
+</p>
+
 
 ### ⚡ FPGA, Digital Design & VLSI
 
